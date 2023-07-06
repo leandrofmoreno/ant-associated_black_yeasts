@@ -8,5 +8,5 @@ numpy==1.19.0             # via -r requirements.in.txt, pandas, scipy
 pandas==1.0.5             # via -r requirements.in.txt
 python-dateutil==2.8.1    # via pandas
 pytz==2020.1              # via pandas
-scipy==1.4.1              # via -r requirements.in.txt
+scipy==1.10.0              # via -r requirements.in.txt
 six==1.15.0               # via python-dateutil
